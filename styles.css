@@ -1,5 +1,7 @@
 .grid-container {
   height: 100vh;
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
 
 .grid-container .grid-x {
